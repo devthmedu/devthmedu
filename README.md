@@ -33,4 +33,4 @@ Please feel free to contact me:
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" />  : developer.thomas@outlook.com
 
 
-📄 **Online CV**: [see my resume](https://www.notion.so/Thomas-Eduardo-Frontend-1170e2a4da684c9ba4efcdf8236b9405?pvs=4)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="25" height="25" /> : [see my resume](https://www.notion.so/Thomas-Eduardo-Frontend-1170e2a4da684c9ba4efcdf8236b9405?pvs=4)
