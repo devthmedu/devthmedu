@@ -5,7 +5,7 @@
 
 My name is Thomas and I'm a frontend developer. I'm on a constant learning journey, exploring technologies like AWS, HTML, CSS, JavaScript (React, Node.js), Python and PHP.
 
-My focus is on UX/UI, always seeking to improve the user experience and contribute with creative and functional solutions for web projects. Alien Monster
+My focus is on UX/UI, always seeking to improve the user experience and contribute with creative and functional solutions for web projects. Alien Monster  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Brazil.webp" alt="Flag Brazil" width="25" height="25" />
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Busts%20In%20Silhouette.webp" alt="Busts In Silhouette" width="50" height="50" /> Social media
@@ -30,7 +30,7 @@ My focus is on UX/UI, always seeking to improve the user experience and contribu
 
 Please feel free to contact me:
 
-✉️ **Email**: developer.thomas@outlook.com
-📞 **Telephone**:  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Brazil.webp" alt="Flag Brazil" width="25" height="25" />   + 55 (19) 9 9904-2072 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" />  : developer.thomas@outlook.com
+
 
 📄 **Online CV**: [see my resume](https://www.notion.so/Thomas-Eduardo-Frontend-1170e2a4da684c9ba4efcdf8236b9405?pvs=4)
