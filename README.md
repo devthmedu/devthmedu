@@ -2,11 +2,18 @@
 
 # 👋 Olá! Bem-vindo ao meu perfil do GitHub!
 
-Meu nome é **Thomas**, tenho 28 anos, e sou um desenvolvedor frontend apaixonado por criar experiências web excepcionais. Com um background diversificado em **HTML, CSS, JavaScript (React, Node.js)**, **Python** e **PHP**, estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
+Meu nome é Thomas Eduardo, tenho 28 anos, e sou um desenvolvedor web frontend com foco em criar experiências web excepcionais. Minha especialidade é em JavaScript e suas frameworks, como React e Next.js, além de trabalhar com Tailwind CSS e TypeScript. Também tenho experiência em backend para implementações de APIs.
 
 ## 🌟 Sobre Mim
 
-Sou um entusiasta da tecnologia com uma paixão por **UX/UI Design**. Meu objetivo é sempre aprimorar a experiência do usuário e entregar soluções inovadoras que se destacam pela funcionalidade e estética. Meu portfólio é uma vitrine do meu trabalho e dedicação, então dê uma olhada! 🚀
+Experiência em Desenvolvimento Web
+Sou um desenvolvedor frontend especializado em JavaScript, React e Next.js. Minha missão é criar interfaces web inovadoras e eficientes, priorizando a experiência do usuário. 
+
+Abordagem para Experiência do Usuário
+Sou apaixonado por criar interfaces web que são não só bonitas, mas também funcionais e intuitivas. Meu objetivo é garantir que cada experiência seja agradável e fácil de usar para todos
+
+Abordagem à Inovação
+Sou apaixonado por trazer novas ideias e tecnologias para projetos. Meu foco é criar soluções criativas que tragam valor real e impactem positivamente os usuários finais. 
 
 ## 🛠️ Tecnologias que Domínio
 
