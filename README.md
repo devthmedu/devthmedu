@@ -1,8 +1,10 @@
-![Frontend](https://github.com/user-attachments/assets/8e22a22e-0f54-4c49-a75b-9a3640e72dba)
+
+![capa](https://github.com/user-attachments/assets/dee28c36-2eec-479f-b887-f12775136858)
 
 # 👋 Olá! Bem-vindo ao meu perfil do GitHub!
 
 Meu nome é Thomas Eduardo, tenho 28 anos, e sou um desenvolvedor web frontend com foco em criar experiências web excepcionais. Minha especialidade é em JavaScript e suas frameworks, como React e Next.js, além de trabalhar com Tailwind CSS e TypeScript. Também tenho experiência em backend para implementações de APIs.
+
 
 ## 🌟 Sobre Mim
 
@@ -16,6 +18,7 @@ Abordagem à Inovação
 Sou apaixonado por trazer novas ideias e tecnologias para projetos. Meu foco é criar soluções criativas que tragam valor real e impactem positivamente os usuários finais. 
 
 ## 🛠️ Tecnologias que Domínio
+
 
 Aqui estão algumas das ferramentas e tecnologias que uso para transformar ideias em realidade:
 
@@ -44,6 +47,9 @@ Aqui estão algumas das ferramentas e tecnologias que uso para transformar ideia
 ![Vite](https://img.shields.io/badge/vite-%23064F5F.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ## 🌐 Conecte-se Comigo!
+
+![212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a](https://github.com/user-attachments/assets/e0602aec-9c15-4c6a-841e-61df534cc7ba)
+
 
 Vamos nos conectar e compartilhar conhecimentos:
 
