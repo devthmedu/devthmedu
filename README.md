@@ -46,9 +46,10 @@ Aqui estão algumas das ferramentas e tecnologias que uso para transformar ideia
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23064F5F.svg?style=for-the-badge&logo=vite&logoColor=white)
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devthm&theme=dark&hide_border=verdadeiro&border_radius=3.9&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=600&card_height=200" alt="GitHub Streak" /></a>
+
 ## 🌐 Conecte-se Comigo!
 
-![212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a](https://github.com/user-attachments/assets/e0602aec-9c15-4c6a-841e-61df534cc7ba)
 
 
 Vamos nos conectar e compartilhar conhecimentos:
