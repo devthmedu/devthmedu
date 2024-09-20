@@ -46,9 +46,8 @@ Aqui estão algumas das ferramentas e tecnologias que uso para transformar ideia
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23064F5F.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devthmedu&hide_border=verdadeiro&card_width=700&card_height=100" alt="GitHub Streak" /></a>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devthmedu&bg_color=000000&color=9da0d8&line=224cf7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=devthmedu&theme=react&hide_border=falso&border_radius=10&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=1100)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devthmedu&bg_color=20232a&color=e0e0e0&line=2ef1ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌐 Conecte-se Comigo!
 
