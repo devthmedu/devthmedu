@@ -1,20 +1,20 @@
 
 ![capa](https://github.com/user-attachments/assets/dee28c36-2eec-479f-b887-f12775136858)
 
-# 👋 Olá! Bem-vindo ao meu perfil do GitHub!
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Love%20You%20Gesture.webp" alt="Love You Gesture" width="25" height="25" /> Olá! Bem-vindo ao meu perfil do GitHub!
 
 Meu nome é Thomas Eduardo, tenho 28 anos, e sou um desenvolvedor web frontend com foco em criar experiências web excepcionais. Minha especialidade é em JavaScript e suas frameworks, como React e Next.js, além de trabalhar com Tailwind CSS e TypeScript. Também tenho experiência em backend para implementações de APIs.
 
 
 ## 🌟 Sobre Mim
 
-Experiência em Desenvolvimento Web
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark%20Button.webp" alt="Check Mark Button" width="25" height="25" /> Experiência em Desenvolvimento Web
 Sou um desenvolvedor frontend especializado em JavaScript, React e Next.js. Minha missão é criar interfaces web inovadoras e eficientes, priorizando a experiência do usuário. 
 
-Abordagem para Experiência do Usuário
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark%20Button.webp" alt="Check Mark Button" width="25" height="25" /> Abordagem para Experiência do Usuário
 Sou apaixonado por criar interfaces web que são não só bonitas, mas também funcionais e intuitivas. Meu objetivo é garantir que cada experiência seja agradável e fácil de usar para todos
 
-Abordagem à Inovação
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark%20Button.webp" alt="Check Mark Button" width="25" height="25" /> Abordagem à Inovação
 Sou apaixonado por trazer novas ideias e tecnologias para projetos. Meu foco é criar soluções criativas que tragam valor real e impactem positivamente os usuários finais. 
 
 ## 🛠️ Tecnologias que Domínio
