@@ -48,6 +48,8 @@ Aqui estão algumas das ferramentas e tecnologias que uso para transformar ideia
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devthmedu&hide_border=verdadeiro&card_width=700&card_height=100" alt="GitHub Streak" /></a>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devthmedu&bg_color=000000&color=9da0d8&line=224cf7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🌐 Conecte-se Comigo!
 
 
