@@ -1,4 +1,4 @@
-# Frontend Web Developer 👋
+# Hello and welcome to my GitHub!
 
 ![Black and Yellow Web Developer LinkedIn Banner](https://github.com/user-attachments/assets/a1ad3d1b-fc75-4a6d-a8bb-5ba2868e0ef5)
 
